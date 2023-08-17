@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CamelSmuggler</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>CamelSmuggler</h1>
+    <form>
+      <table style="width: 600px;">
+        <tr>
+          <td style="width: 150px;"><label for="fileInput">File to smuggle:</label></td>
+          <td>
+            <div class="input-group">
+              <input type="file" class="form-control" id="fileInput" required>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td><label for="password">Password:</label></td>
+          <td>
+            <div class="input-group">
+              <input type="password" class="form-control" id="password" required>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td><label>Operation:</label></td>
+          <td>
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" id="operationSwitch">
+              <label class="form-check-label" for="operationSwitch" id="operationLabel">Encrypt</label>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="text-align: center"><button type="submit" id="submitButton" class="btn btn-primary">Download</button></td>
+        </tr>
+        <tr>
+        <td><label>POST url:</label></td>
+          <td>
+            <div class="input-group">
+              <input type="text" class="form-control" id="postUrl">
+            </div>
+          </td>
+          <tr>
+          <td colspan="2" style="text-align: center"><button type="submit" id="sendButton" class="btn btn-primary">Send</button></td>
+        </tr>
+        </tr>
+
+      </table>
+    </form>
+	
+  </div>
+  <script src="crypto-js.min.js"></script>
+  <script src="pako.min.js"></script>
+  <script src="script.js"></script>
+  <script src="popper.min.js"></script>
+  <script src="bootstrap.min.js"></script>
+</body>
+</html>
