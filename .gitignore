@@ -135,7 +135,6 @@ __pycache__/
 *.class
 <<<<<<< HEAD
 =======
-*.html
 >>>>>>> origin/main
 *.fls
 *.dvi
