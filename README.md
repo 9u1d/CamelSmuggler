@@ -1,9 +1,6 @@
 # CamelSmuggler
 
-Javascript Tool for encrypting and sending files.
+File smuggling tool - encrypting, compressing, and sending files. The project utilizes HTML, JavaScript ("client side"), and Go ("server side").
 
-<img width="485" alt="camel_smuggler" src="https://github.com/ElusiveFoxie/CamelSmuggler/assets/44260690/58e242be-34f3-42f2-bfaf-afb948e00920">
-
-## Credits
-**Current Maintainer:** [ElusiveFoxie](https://github.com/ElusiveFoxie)
-**Original Creator:** [@9u1d](https://github.com/9u1d)
+## License
+CamelSmuggler is made by (@9u1d) and (@ElusiveFoxie) and it's released under GPL3 license.
