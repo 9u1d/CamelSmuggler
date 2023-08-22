@@ -1,0 +1,223 @@
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE - Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IDE - JetBrains IDE
+.idea/
+
+# IDE - Eclipse IDE
+*.pydevproject
+.project
+.metadata
+.bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+__pycache__/
+
+# Java
+*.class
+*.war
+*.ear
+*.log
+*.ctxt
+*.jar
+*.tar.gz
+*.zip
+*.rar
+*.doc
+*.xls
+*.pdf
+*.test
+*.bak
+*.old
+*.swp
+*.rej
+*.save
+*.py~
+*.sh~
+
+# Go
+*.exe
+*.test
+*.out
+
+# Other languages/frameworks
+*.o
+*.out
+*.pro.user
+*.aux
+*.lof
+*.lol
+*.lot
+*.bit
+*.fmt
+*.tfm
+*.class
+*.html
+*.fls
+*.dvi
+*.ps
+*.eps
+*.pdf
+*.loa
+*.loa
+*.lol
+*.bst
+*.bib
+*.blg
+*.bbl
+*.ind
+*.idx
+*.ilg
+*.ild
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.gls
+*.glo
+*.ist
+*.sty
+*.cls
+*.scs
+*.tex
+*.fls
+*.end
+*.dic
+*.ist
+*.acn
+*.acr
+*.alg
+*.adn
+*.adx
+*.and
+*.ant
+*.bbl
+*.bcf
+*.run.xml
+*.cb
+*.cb2
+*.idv
+*.lg
+*.xref
+*.ttt
+*.fff
+*.ent
+*.end
+*.dtx
+*.ins
+*.ltx
+*.ly
+*.texi
+*.texinfo
+*.txi
+*.out
+*.toc
+*.idx
+*.ind
+*.ilg
+*.maf
+*.mlf
+*.mtc
+*.mtc1
+*.mus
+*.mw
+*.ctx
+*.AUX
+*.lof
+*.log
+*.lot
+*.gz
+*.zip
+*.xdv
+*.pdfsync
+*.synctex
+*.synctex.gz
+*.nav
+*.snm
+*.out
+*.toc
+*.vrb
+*.pyg
+
