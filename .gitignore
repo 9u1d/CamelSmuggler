@@ -133,6 +133,10 @@ __pycache__/
 *.fmt
 *.tfm
 *.class
+<<<<<<< HEAD
+=======
+*.html
+>>>>>>> origin/main
 *.fls
 *.dvi
 *.ps
